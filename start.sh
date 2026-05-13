@@ -1,0 +1,1 @@
+npx ts-node --transpile-only check-wear.ts
